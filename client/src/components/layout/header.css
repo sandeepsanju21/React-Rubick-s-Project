@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    background-color: #3265fa;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    border-color: black;
+  }
+
+.btnheader{
+    margin-left:85%;
+}
+.logo{
+    height: 35px;
+    width: 40px;
+}

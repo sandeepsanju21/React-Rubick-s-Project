@@ -1,0 +1,13 @@
+
+  .menu{
+    background-color: #f9fafb;
+    position: fixed;
+    top: 7.2%;
+    left: 0;
+    width: 150px;
+    height: 100%;
+    padding: 20px 10px;
+    transition: all 0.5s ease;
+    font-size: 15px;
+    
+}
